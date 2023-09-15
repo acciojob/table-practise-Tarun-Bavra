@@ -1,8 +1,10 @@
 /*  your css code here. If applicable */
 .row{
-/* 	border:1px solid black; */
+	border:1px solid rgb(0,0,0);
 }
 .table{
-    background:yellow
-	border:1px;
+    border:1px solid rgb(0,0,0);
+	background:yellow;
+	
+
 }
