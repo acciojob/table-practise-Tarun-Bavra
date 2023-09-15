@@ -1,5 +1,5 @@
 /*  your css code here. If applicable */
-.row{
+.row,tr{
 	border:1px solid rgb(0,0,0);
 }
 table{
